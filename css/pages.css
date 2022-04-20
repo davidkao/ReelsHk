@@ -96,7 +96,7 @@
 }
 .slick-slide .si-item .con{position:relative;z-index:3;text-align:center;height:100%;padding-bottom:20px;}
 .slick-slide .si-item .con .ico img{display:inline-block;}
-.slick-slide .si-item .con .title{font-size:22px;font-weight: bold;color:#333;margin:10px 0;line-height:22px;}
+.slick-slide .si-item .con .title{font-size:22px;color:#333;margin:10px 0;line-height:22px;}
 
 .index-si-search{display:inline-block;position:relative;}
 .index-si-search .input-text{width:300px;padding-right:50px;}
