@@ -46,7 +46,7 @@ $(window).on("load", function() {
 		centerMode: true,
 		autoplay:true,
 		//arrows: false,
-		autoplaySpeed:2500,
+		autoplaySpeed:3000,
 		speed:300,
 		respondTo : 'window',
 		pauseOnFocus:false, 
